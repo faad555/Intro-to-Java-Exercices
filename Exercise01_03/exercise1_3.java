@@ -1,10 +1,15 @@
 
 /**
- * Write a description of class exercise1_3 here.
+ *      (Display a pattern) Write a program that displays the following pattern:
  *
- * @author (your name)
- * @version (a version number or a date)
+ *          J    A  V     V  A
+ *          J   A A  V   V  A A
+ *       J  J  AAAAA  V V  AAAAA
+ *        JJ  A     A  V  A     A
+ 
  */
+
+
 public class exercise1_3
 {
     public static void main(String []args)
