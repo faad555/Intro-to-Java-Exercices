@@ -1,10 +1,15 @@
 
 /**
  * Write a description of class exercise1_4 here.
+ *(Print a table) Write a program that displays the following table:
  *
- * @author (your name)
- * @version (a version number or a date)
+ *      a   a^2 a^3
+ *      1   1   1
+ *      ....
+ *      4   16  64
+ * 
  */
+
 public class exercise1_4
 {
     public static void main(String[]args)
